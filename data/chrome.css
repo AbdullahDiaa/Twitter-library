@@ -1,0 +1,10 @@
+#twitter-toolbarbutton {
+  -moz-box-orient: horizontal !important;
+}
+
+#twitter-toolbarbutton > .toolbarbutton-text {
+  display: inline;
+  font-weight:bold;
+  color: #CC0000;
+  -moz-padding-start: 3px;
+}
